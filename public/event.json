@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Team Standup",
+      "date": "2025-03-20",
+      "time": "10:00 AM",
+      "description": "Daily standup meeting.",
+      "meetingLink": "https://meet.google.com/xyz"
+    },
+    {
+      "id": 2,
+      "title": "Client Meeting",
+      "date": "2025-03-20",
+      "time": "2:00 PM",
+      "description": "Meeting with the client.",
+      "meetingLink": "https://zoom.us/j/12345"
+    }
+  ]
+  
